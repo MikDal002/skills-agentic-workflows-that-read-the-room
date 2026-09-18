@@ -14,6 +14,7 @@ tools:
 network:
   allowed:
     - github.blog
+    - awesome-copilot.github.com
     - github.com
 safe-outputs:
   create-pull-request:
@@ -33,6 +34,7 @@ Update the GitHub Info website content for Mona's review.
 3. Use `web-fetch` to read the external public guidance and current source material at:
    - https://github.blog/latest/
    - https://github.blog/changelog/
+  - https://awesome-copilot.github.com/workflows/
 4. Keep summaries short and practical, and cite the source when an update comes from the GitHub Blog or GitHub Changelog.
 
 ## Required change
